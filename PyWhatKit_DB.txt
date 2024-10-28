@@ -1,0 +1,15 @@
+Date: 28/10/2024
+Time: 9:18
+Phone Number: +5516997232003
+Message: Teste do python
+--------------------
+Date: 28/10/2024
+Time: 9:20
+Phone Number: +5516997232003
+Message: Teste do python
+--------------------
+Date: 28/10/2024
+Time: 9:27
+Phone Number: +5519996168273
+Message: Essa mensagem foi programada por Python
+--------------------
